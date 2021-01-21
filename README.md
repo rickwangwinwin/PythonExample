@@ -6,4 +6,4 @@ Here you will have access to all the notebooks used in my Youtube walkthrough.
 
 # Youtube Channel:
 
-https://studio.youtube.com/channel/UC-vvNqN_25_4RB0gcfjPvaA/playlists
+https://github.com/rickwangwinwin/PythonExample.git
